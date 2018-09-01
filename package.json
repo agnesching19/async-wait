@@ -1,0 +1,22 @@
+{
+  "name": "async-wait",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnesching19/async-wait.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnesching19/async-wait/issues"
+  },
+  "homepage": "https://github.com/agnesching19/async-wait#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
